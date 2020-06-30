@@ -1,6 +1,4 @@
 #!/bin/bash
-# Inshackle v1.0
-# recoded by: SANJU
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
