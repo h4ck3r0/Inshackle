@@ -1,8 +1,6 @@
 #!/bin/bash
 # Inshackle v1.0
-# recoded by: SANJU PAPPACHAN
-# github.com/Sanju8943/inshackle
-# If you use any part from this code, give me the credits, please, read the License
+# recoded by: SANJU
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
